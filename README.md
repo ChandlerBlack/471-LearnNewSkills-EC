@@ -23,11 +23,11 @@ A collection of projects that I did for my CS471 class
 
   
 
-## PROJECT 3: 
+## PROJECT 3: Learning C++ and making a Raycaster
 
-  Course Link: 
+  Course Link: https://www.youtube.com/watch?v=vLnPwxZdW4Y&t=247s
 
-  Description: 
+  Description: I wanted to learn C++ because I have wanted to start work on making my own game engine for years and I think this is the kick in the pants that I need to get started on it. I chose C++ because of its speed and prevalence in game engine development. So I found a tutorial for freeCodeCamp and followed along to familiarize myself with C++. 
 
 
 ## PROJECT 4: 
