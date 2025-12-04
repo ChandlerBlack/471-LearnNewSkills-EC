@@ -12,11 +12,15 @@ A collection of projects that I did for my CS471 class
 
   
 
-## PROJECT 2: 
+## PROJECT 2: JavaScript Discord Bot
 
   Course Link: 
+    https://www.youtube.com/watch?v=8o25pRbXdFw&list=PLdKCnStmDY5Ub93cJsM0C4jC43XQHLdHD&index=13 
 
   Description: 
+    I wanted to do this to brush up on my JavaScript... reluctantly.
+    I don't like JavaScript at all but I am admittedly not the strongest JavaScript dev and given how prevalent it is I feel that I should put my feelings on JavaScript aside and become more comfortable working in it. I got the bot set up and it was interesting to work with Discord's API, so this also gave some more experience working with new API's. I am going to keep working on this bot, I want to hook it up to a LLM API so that i can have a chatbot in my discord server. 
+
   
 
 ## PROJECT 3: 
